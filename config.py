@@ -3,7 +3,7 @@ import pygame
 pygame.display.init()
 
 # Game display
-game_name = "Robotronic 2084"
+game_name = "Robotron 2084"
 screen_height = 800
 screen_width = 1000
 screen = pygame.display.set_mode((screen_width, screen_height))
